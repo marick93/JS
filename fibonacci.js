@@ -7,7 +7,7 @@ alert(0);
 if(n==1){
 alert(1);
 }
-for(var i=2;i<101;i++){
+for(var i=2;i<=n;i++){
 c=a+b;
 a=b;
 b=c;
